@@ -25,6 +25,17 @@ Database:
 - Update Employee
 - Delete Employee
 
+## Application Screenshots
+
+### Employee List Page
+![Employee List](EmployeeList.png)
+
+### Add Employee Page
+![Add Employee](AddEmployee.png)
+
+### Update Employee Page
+![Update Employee](UpdateEmployee.png)
+
 ## Project Structure
 
 employee-management-system
