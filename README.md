@@ -34,7 +34,7 @@ Database:
 ![Add Employee](AddEmployee.png)
 
 ### Update Employee Page
-![Update Employee](UpdateEmployee.png)
+![Update Employee](UpdateEmploee.png)
 
 ## Project Structure
 
